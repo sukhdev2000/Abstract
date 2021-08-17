@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\Assignment-3\abstractimplementation\obj\Debug\net5.0\abstractimplementation.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Assignment-3\abstractimplementation\obj\Debug\net5.0\abstractimplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Assignment-3\abstractimplementation\obj\Debug\net5.0\abstractimplementation.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Assignment-3\abstractimplementation\obj\Debug\net5.0\abstractimplementation.AssemblyInfo.cs
+C:\Users\hp\Desktop\Assignment-3\abstractimplementation\obj\Debug\net5.0\abstractimplementation.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Assignment-3\abstractimplementation\bin\Debug\net5.0\abstractimplementation.exe
+C:\Users\hp\Desktop\Assignment-3\abstractimplementation\bin\Debug\net5.0\abstractimplementation.deps.json
+C:\Users\hp\Desktop\Assignment-3\abstractimplementation\bin\Debug\net5.0\abstractimplementation.runtimeconfig.json
+C:\Users\hp\Desktop\Assignment-3\abstractimplementation\bin\Debug\net5.0\abstractimplementation.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Assignment-3\abstractimplementation\bin\Debug\net5.0\abstractimplementation.dll
+C:\Users\hp\Desktop\Assignment-3\abstractimplementation\bin\Debug\net5.0\ref\abstractimplementation.dll
+C:\Users\hp\Desktop\Assignment-3\abstractimplementation\bin\Debug\net5.0\abstractimplementation.pdb
+C:\Users\hp\Desktop\Assignment-3\abstractimplementation\obj\Debug\net5.0\abstractimplementation.dll
+C:\Users\hp\Desktop\Assignment-3\abstractimplementation\obj\Debug\net5.0\ref\abstractimplementation.dll
+C:\Users\hp\Desktop\Assignment-3\abstractimplementation\obj\Debug\net5.0\abstractimplementation.pdb
+C:\Users\hp\Desktop\Assignment-3\abstractimplementation\obj\Debug\net5.0\abstractimplementation.genruntimeconfig.cache
